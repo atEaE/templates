@@ -1,0 +1,4 @@
+structure:
+  root:
+    name: LICENSE
+    type: file
