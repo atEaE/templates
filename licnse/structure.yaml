@@ -1,4 +1,5 @@
 structure:
-  root:
-    name: LICENSE
-    type: file
+  path: LICENSE
+  ui-mode:
+    type: select
+    all-disable: true

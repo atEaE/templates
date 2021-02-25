@@ -1,0 +1,5 @@
+structure:
+  path: .github/ISSUE_TEMPLATE/*
+  ui-mode:
+    type: select
+    all-disable: false
